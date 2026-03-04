@@ -1,0 +1,14 @@
+# --- Fichiers de données et rapports ---
+*.xlsx
+*.csv
+!ventes_janvier.csv
+
+# --- Environnement Python ---
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# --- Système ---
+.DS_Store
+Thumbs.db
